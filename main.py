@@ -111,7 +111,6 @@ def data_preparate(args, device):
     # dataset_path = os.path.join(dataset_path, args.dataset)
     # data_col = pd.read_csv(os.path.join(dataset_path, 'vel.csv')).shape[0]
     
-    # @XR edit
     dataset_path = '/home/wwang6/STGCN+MPNN/Real data/WW01_v3'
     file_name = 'WW01_v3.xlsx'
     
