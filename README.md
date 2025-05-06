@@ -1,5 +1,5 @@
-# ST-MPNN
-Spatial-temporal Message Passing Neural Network
+# HydroNet
+Spatial-temporal message passing neural network customized for urban wastewater systems
 
 ## How to run
 ```
