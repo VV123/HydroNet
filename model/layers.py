@@ -214,7 +214,6 @@ class ChebGraphConv(nn.Module):
         
         return cheb_graph_conv
     
-# @XR edit: change GraphConv to LinearMPNN
 class GraphConv(nn.Module):
     def __init__(self, c_in, c_out, gso, bias):
         super(GraphConv, self).__init__()
