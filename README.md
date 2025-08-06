@@ -1,4 +1,4 @@
-# HydrauNet
+# HydroNet
 Spatial-temporal message passing neural network customized for urban wastewater systems
 
 ## How to run
